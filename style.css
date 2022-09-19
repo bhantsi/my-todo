@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: rgb(180, 180, 219);
+}
+.heading {
+    font-family: cursive, sans-serif;
+    font-size: 48px;
+    line-height: 1.5;
+    text-align: center;
+}
